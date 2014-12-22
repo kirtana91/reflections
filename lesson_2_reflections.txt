@@ -11,15 +11,25 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 	
-	
+	It helps to make sure that the changes are all saved in the repoistory. That' why one commit per logical change
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	Branches. It will help you keep updated and organized about the history, by self-checking out master branch.
+	It also helps you save data if you are doing different type of programming in the same file. 
+	It also helps you to provide the privacy of the data.
+
 How do the diagrams help you visualize the branch structure?
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+	It helps to creat new braches and helps to understand the previous branches.
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Two branches are merged and combines the feature. It helps to understand the structure of the code and the changes made and changes need to be change.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Git automatic merge helps you find the conflict of merging in the file, then correct it.
+	In manual merge, things get complicated than the git merge.
+	If it is a few lines of code in the file then it easier to merge manually, but if it is otherwise, things are complicated in manual merge.
